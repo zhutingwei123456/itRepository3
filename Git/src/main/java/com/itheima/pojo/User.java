@@ -4,7 +4,8 @@ public class User {
 
     private String name;
     /**
-     * a用户修改的代码
+     * b用户修改的代码
      */
     private String age;
+    private String password;
 }
